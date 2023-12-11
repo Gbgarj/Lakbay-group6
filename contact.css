@@ -56,6 +56,10 @@ h1 {
     justify-content: center;
 }
 
+.member .info:hover {
+    color: red;
+}
+
 .contact {
     padding: 20px;
     align-self: center;
