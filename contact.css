@@ -54,6 +54,7 @@ h1 {
     display: flex;
     gap: 20px;
     justify-content: center;
+    color: gray;
 }
 
 .member .info:hover {
