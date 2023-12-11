@@ -57,6 +57,10 @@ h1 {
     color: gray;
 }
 
+.member .info a {
+    text-decoration: none;
+}    
+
 .member .info:hover {
     color: red;
 }
